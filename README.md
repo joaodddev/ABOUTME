@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaodddev
-- 👀 I’m interested in data, cloud and a.i.
-- 🌱 I’m currently learning python, sql and cloud
+- 👀 I’m interested in data, web and a.i.
+- 🌱 I’m currently learning python, sql and javascript
 - 😄 Pronouns: he/him
 
 <!---
