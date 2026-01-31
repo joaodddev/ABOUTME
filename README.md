@@ -1,8 +1,6 @@
 ## 👋 Olá! Eu sou o João Victor
 
-Atuo na interseção entre **operações, sistemas e dados**, com experiência prática em ambientes corporativos de grande porte. Tenho vivência nas áreas **administrativa, fiscal e operacional**, sempre com foco em **padronização de processos, eficiência operacional e decisões orientadas por dados**.
-
-Atualmente, venho aprofundando meus estudos em **desenvolvimento backend**, utilizando **Java (POO e Spring Boot)** e **Python**, criando projetos com regras de negócio próximas do mundo real, APIs REST e automações voltadas à área operacional e financeira.
+Atuo na interseção entre **operações, sistemas e dados**, com experiência prática em ambientes corporativos de grande porte. Atualmente, venho aprofundando meus estudos em **desenvolvimento backend**, utilizando **Java (POO e Spring Boot)** e **Python**, criando projetos com regras de negócio próximas do mundo real, APIs REST e automações voltadas à área operacional e financeira.
 
 ### 🛠️ Tecnologias & Ferramentas
 - **Java** (POO, Collections, Streams, Spring Boot)
@@ -25,8 +23,7 @@ Atualmente, venho aprofundando meus estudos em **desenvolvimento backend**, util
 
 👋 Hi! I'm João Victor
 
-I work at the intersection of operations, systems, and data, with hands-on experience in large corporate environments. I have a solid background in administrative, fiscal, and operational areas, always focused on process standardization, operational efficiency, and data-driven decision-making.
-Currently, I am deepening my studies in backend development, working with Java (OOP and Spring Boot) and Python, building projects that simulate real-world business rules, REST APIs, and automations applied to operational and financial contexts.
+I work at the intersection of operations, systems, and data, with hands-on experience in large corporate environments. Currently, I am deepening my studies in backend development, working with Java (OOP and Spring Boot) and Python, building projects that simulate real-world business rules, REST APIs, and automations applied to operational and financial contexts.
 
 🛠️ Technologies & Tools
 
